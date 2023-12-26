@@ -8,7 +8,7 @@
   <img src="https://github.com/s2000n/s2000n/blob/main/cybersecurity.png" align="right" width="25%"/>
 <h5>I'm a network wngineer  who is passionate about creating technology to elevate people and help new to find the right path. Somethings i enjoy working with it : Network, PHP, python, HTML.</h5>
 <ul>
-  <li>I'm a Network enginner [@s2000.n](https://alfan.link/s2000.n) Contact with me.</li>
+  <li>I'm a Network enginner <a href="https://alfan.link/s2000.n"> Contact with me</a>.</li>
   <li>I have one website <a href="https://filegrabber.ddns.net/">Click to move</a> </li>
   <li></li>
 </ul>
