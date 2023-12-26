@@ -7,3 +7,6 @@
   </p>
 
 
+  
+  <img src="https://github.com/s2000n/s2000n/blob/main/cybersecurity.png" align="right" width="25%"/>
+
