@@ -6,7 +6,7 @@
     <a href="https://www.snapchat.com/add/s200oo" target="_blank"><img src="https://img.shields.io/badge/snapchat-yellow?style=flat&logo=snapchat&logoColor=white"/></a>
     <a href="https://www.instagram.com/s2000.n/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-  <img src="https://github.com/s2000n/s2000n/blob/main/cybersecurity.png" align="right" width="25%"/>
+
 <h5>I'm a network wngineer who is passionate about creating technology to elevate people and help new to find the right path.<br>Somethings i enjoy working with it : Network, PHP, python, HTML.</h5>
 <ul>
     <li>I'm a Network enginner <a href="https://alfan.link/s2000.n" target="_blank"> Contact with me</a>.</li>
