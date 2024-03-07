@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/s2000.n/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
-<h5>I'm a network wngineer who is passionate about creating technology to elevate people and help new to find the right path.<br>Somethings i enjoy working with it : Network, PHP, python, HTML.</h5>
+<h5>I'm a network engineer who is passionate about creating technology to elevate people and help new to find the right path.<br>Somethings i enjoy working with it : Network, PHP, python, HTML.</h5>
 <ul>
     <li>I'm a Network enginner <a href="https://alfan.link/s2000.n" target="_blank"> Contact with me</a>.</li>
     <li>My website: <a href="https://filegrabber.site/" target="_blank">FileGrabber</a>.</li>
