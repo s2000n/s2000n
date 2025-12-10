@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate **Network Engineer** and **Full-Stack Developer** who loves building solutions that make technology accessible and useful.  
+I am a passionate **Network Engineer** and **Programmer** who loves building solutions that make technology accessible and useful.  
 I enjoy solving problems, learning new skills, and helping others find the right path in tech.
 
 ---
