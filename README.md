@@ -25,7 +25,7 @@ I enjoy solving problems, learning new skills, and helping others find the right
 ---
 
 ### 🔧 Skills & Expertise
-- **Networking:** TCP/IP, Routing & Switching, Firewall Management  
+- **Networking:** TCP/IP, Routing & Switching
 - **Programming & Web:** PHP, Python, HTML, CSS, JavaScript  
 - **Tools & Technologies:** Wireshark, Packet Analysis, Web Development  
 
